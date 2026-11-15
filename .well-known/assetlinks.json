@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.zestname.twa",
+        "sha256_cert_fingerprints": ["F5:3A:AF:C3:9B:9D:9B:88:F6:6C:17:D2:3A:5A:13:E3:DF:71:60:3F:3D:FF:EE:DF:98:E6:CC:26:69:41:54:BB"]
+      }
+    }]
